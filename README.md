@@ -1,2 +1,2 @@
-# technicalbrief_componentsofablockchain
+# technical brief - components of a blockchain
 had to write a technical brief for a school assignment. chose to write about the blockchain. please let me know if my comprehension is flawed. 
